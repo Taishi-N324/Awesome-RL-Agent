@@ -14,7 +14,7 @@
 
 - (2026.02) [Mobile-Agent-v3.5: Multi-platform Fundamental GUI Agents](https://arxiv.org/abs/2602.16855), [Xu+]
 
-## benchmark
+## Benchmark
 
 - (2025.04) [BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents](https://arxiv.org/abs/2504.12516), [Wei+]
 - (2026.01) [Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces](https://arxiv.org/abs/2601.11868), [Merrill+, ICLR 2026]
