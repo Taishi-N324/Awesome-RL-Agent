@@ -16,4 +16,4 @@
 
 ## benchmark
 
-- (2026.01) [Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces](https://arxiv.org/abs/2602.16855), [Merrill+, ICLR 2026]
+- (2026.01) [Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces](https://arxiv.org/abs/2601.11868), [Merrill+, ICLR 2026]
