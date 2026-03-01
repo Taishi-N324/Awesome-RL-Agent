@@ -13,3 +13,7 @@
 ### GUI
 
 - (2026.02) [Mobile-Agent-v3.5: Multi-platform Fundamental GUI Agents](https://arxiv.org/abs/2602.16855), [Xu+]
+
+## benchmark
+
+- (2026.01) [Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces](https://arxiv.org/abs/2602.16855), [Merrill+, ICLR 2026]
