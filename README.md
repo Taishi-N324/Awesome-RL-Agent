@@ -10,3 +10,6 @@
 
 - (2026.02) [SWE-Universe: Scale Real-World Verifiable Environments to Millions](https://arxiv.org/abs/2602.02361), [Chen+]
 
+GUI
+
+- (2026.02) [Mobile-Agent-v3.5: Multi-platform Fundamental GUI Agents](https://arxiv.org/abs/2602.16855), [Xu+]
