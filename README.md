@@ -14,6 +14,12 @@
 
 - (2026.02) [Mobile-Agent-v3.5: Multi-platform Fundamental GUI Agents](https://arxiv.org/abs/2602.16855), [Xu+]
 
+
+## Blogs
+
+- (2026.03) [An Early Preview of SWE-1.6 and Research Update](https://cognition.ai/blog/swe-1-6-preview), [Baronio+]
+
+
 ## Benchmark
 
 - (2025.04) [BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents](https://arxiv.org/abs/2504.12516), [Wei+]
